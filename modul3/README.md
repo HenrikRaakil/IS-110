@@ -1,10 +1,10 @@
-# Filer for modul 3 i IS-110
+# Modul 3
 
-Inkluderer to prosjekter fra BlueJ, og ett fra IntelliJ IDEA
+Inkluderer to prosjekter fra BlueJ, og ett prosjekt fra IntelliJ IDEA
 
-## BlueJ
-*Test
-*untitled BlueJ
+## BlueJ ![#5d8ab2](https://via.placeholder.com/15/5d8ab2/000000?text=+)
+* Test
+* untitled BlueJ
 
-## Intellij IDEA
-*untitled
+## IntelliJ IDEA ![#fe315d](https://via.placeholder.com/15/fe315d/000000?text=+)
+* untitled
