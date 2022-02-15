@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Main
+comment1.params=
+comment1.target=Main()
+comment2.params=
+comment2.target=void\ printMain()
+comment3.params=
+comment3.target=void\ callPrintMain()
+comment4.params=
+comment4.target=void\ callMethodIntAndStringFromSecond()
+comment5.params=
+comment5.target=void\ callStaticMethodFromSecond()
+comment6.params=
+comment6.target=void\ callMathThird()
+numComments=7
