@@ -1,0 +1,27 @@
+# BlueJ files
+**/doc
+*.class
+*.pkh
+*.ctxt
+*.bluej
+README.TXT
+
+#Default
+.DS_Store
+
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
