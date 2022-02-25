@@ -41,4 +41,11 @@ public class FixedArray
             System.out.println(arrayFood[i]);
         }
     }
+    
+    public void countArray(int limit)
+    {
+        while(arrayFood.length < limit){
+            System.out.println(arrayFood[0]);
+        }
+    }
 }
