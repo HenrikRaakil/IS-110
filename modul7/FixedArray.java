@@ -42,10 +42,11 @@ public class FixedArray
         }
     }
     
+    /*
     public void countArray(int limit)
     {
         while(arrayFood.length < limit){
             System.out.println(arrayFood[0]);
         }
-    }
+    } */
 }
