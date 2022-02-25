@@ -1,7 +1,21 @@
-# File-based project format
-*.iws
+# Default ignored files
+/shelf/
 
-# IntelliJ
-out/
-.idea/
+# IntelliJ IDEA
+/.idea/
 *.iml
+
+# BlueJ
+*.class
+*.ctxt
+*.bluej
+
+# Java
+/out/
+
+# Editor-based HTTP Client requests
+/httpRequests/
+
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
